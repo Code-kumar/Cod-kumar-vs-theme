@@ -1,0 +1,39 @@
+{
+    "name": "significants-theme",
+    "displayName": "Significants Theme",
+    "description": "A Modern & futuristic theme by Mr.kumar v0.0.1",
+    "version": "0.0.1",
+    "publisher": "Mrkumar",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Cod-Kumar/Cod-kumar-vs-theme"
+    },
+    "auther": {
+        "name": "Naveen kumar"
+    },
+    "license": "MIT",
+    "keywords": [
+		"Mr-kumar theme",
+		"Dark blue",
+		"Mr_kumar",
+		"dark blue",
+		"dark",
+        "blue"
+	],
+    "icon": "theme-logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Significants Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Significants Theme-color-theme.json"
+            }
+        ]
+    }
+}
