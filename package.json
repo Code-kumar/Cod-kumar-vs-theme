@@ -1,8 +1,8 @@
 {
-    "name": "significants-theme",
-    "displayName": "Significants Theme",
+    "name": "Eon-theme",
+    "displayName": "Eon Theme",
     "description": "A Modern & futuristic theme by Mr.kumar v0.0.1",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Mrkumar",
     "engines": {
         "vscode": "^1.0.0"
@@ -23,7 +23,7 @@
         "dark",
         "blue"
     ],
-    "icon": "theme-logo.png",
+    "icon": "./images/theme-logo.png",
     "categories": [
         "Themes"
     ],

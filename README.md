@@ -1,6 +1,6 @@
 ## A Modern & futuristic theme by Mr.kumar v0.0.1
 
-![alt text](https://github.com/Cod-Kumar/Cod-kumar-vs-theme/blob/18d851e972bb8cab807c5412510bbae7db8e4aee/Main-banner.png)
+![alt text](./images/Main-banner.png)
 
 Thanks for checking out my VS Code theme.
 
