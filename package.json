@@ -2,7 +2,7 @@
     "name": "significants-theme",
     "displayName": "Significants Theme",
     "description": "A Modern & futuristic theme by Mr.kumar v0.0.1",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Mrkumar",
     "engines": {
         "vscode": "^1.0.0"
@@ -16,13 +16,13 @@
     },
     "license": "MIT",
     "keywords": [
-		"Mr-kumar theme",
-		"Dark blue",
-		"Mr_kumar",
-		"dark blue",
-		"dark",
+        "Mr-kumar theme",
+        "Dark blue",
+        "Mr_kumar",
+        "dark blue",
+        "dark",
         "blue"
-	],
+    ],
     "icon": "theme-logo.png",
     "categories": [
         "Themes"
