@@ -1,4 +1,4 @@
-## A Modern & futuristic theme by Mr.kumar v0.0.1
+## A Modern & futuristic theme by Mr.kumar
 
 ![alt text](./images/Main-banner.png)
 
