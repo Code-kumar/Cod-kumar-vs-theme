@@ -1,8 +1,8 @@
 {
     "name": "Eon-theme",
     "displayName": "Eon Theme",
-    "description": "A Modern & futuristic theme by Mr.kumar v0.0.1",
-    "version": "0.0.3",
+    "description": "A Modern & futuristic theme by Mr.kumar",
+    "version": "v1",
     "publisher": "Mrkumar",
     "engines": {
         "vscode": "^1.0.0"
@@ -23,14 +23,19 @@
         "dark",
         "blue"
     ],
-    "icon": "./images/theme-logo.png",
+    "icon": "images/theme-logo.png",
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#0a141d",
+        "theme": "dark"
+    },
+    
     "contributes": {
         "themes": [
             {
-                "label": "Significants Theme",
+                "label": "Eon Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Significants Theme-color-theme.json"
             }
