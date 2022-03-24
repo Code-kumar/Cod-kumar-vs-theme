@@ -4,7 +4,7 @@
 
 Thanks for checking out my VS Code theme.
 
-[Marketplace:](https://marketplace.visualstudio.com/items?itemName=Mrkumar.Eon-theme&ssr=false)
+[👉 Check out on Marketplace:](https://marketplace.visualstudio.com/items?itemName=Mrkumar.Eon-theme&ssr=false)
 
 ## Installation
 
